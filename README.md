@@ -5,7 +5,7 @@
 ![Onboarding UI](https://raw.githubusercontent.com/debjitpurohit/social-media-app/master/assets/screenshots/onboarding-ui.png)
 
 ### Sign In & Sign Up UI
-![Sign in UI](https://raw.githubusercontent.com/debjitpurohit/social-media-app/master/assets/screenshots/social-login.png)
+![Sign in UI](https://raw.githubusercontent.com/debjitpurohit/social-media-app/master/assets/screenshots/sign-in-up.jpg)
 
 
 
